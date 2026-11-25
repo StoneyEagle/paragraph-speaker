@@ -1,0 +1,9 @@
+{
+  "name": "paragraph-speaker",
+  "version": "1.0.0",
+  "description": "Read any part of Claude's reply aloud in a natural voice, with each word marked as it is spoken and tables explained. Select text, then right-click → Read aloud (desktop app) or type /speak.",
+  "author": { "name": "nidnawatha-L26" },
+  "repository": "https://github.com/nidnawatha-L26/paragraph-speaker",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

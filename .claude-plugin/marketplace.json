@@ -1,0 +1,12 @@
+{
+  "name": "paragraph-speaker",
+  "owner": { "name": "nidnawatha-L26" },
+  "description": "Paragraph Speaker: read Claude Code replies aloud, each word marked as it is spoken.",
+  "plugins": [
+    {
+      "name": "paragraph-speaker",
+      "source": "./",
+      "description": "Read any part of Claude's reply aloud in a natural voice, with each word marked as it is spoken and tables explained."
+    }
+  ]
+}
